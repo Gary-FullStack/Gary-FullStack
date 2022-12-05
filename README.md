@@ -3,8 +3,6 @@
 
 - <b>I'm in a bootcamp currently. **SDGKU**</b>
 
-&lt;div%gt; &lt;Learning to code is fun!&/gt; &lt/&gt;
-
 
 <hr>
 <h3 align="left">Connect with me:</h3>
