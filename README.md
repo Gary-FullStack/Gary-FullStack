@@ -1,8 +1,10 @@
 <h1 align="center">Hiya!</h1>
 <p align="left"> <a href="https://twitter.com/fullstackgary" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackgary?logo=twitter&style=for-the-badge" alt="fullstackgary" /></a> </p>
 
-- I'm in a bootcamp currently. **SDGKU**
+- <b>I'm in a bootcamp currently. **SDGKU**</b>
 
+
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fullstackgary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fullstackgary" height="30" width="40" /></a>
