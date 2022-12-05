@@ -3,7 +3,7 @@
 
 - <b>I'm in a bootcamp currently. **SDGKU**</b>
 
-&ltdiv%gt; &ltLearning to code is fun!&/gt &lt/&gt
+&lt;div%gt; &lt;Learning to code is fun!&/gt; &lt/&gt;
 
 
 <hr>
