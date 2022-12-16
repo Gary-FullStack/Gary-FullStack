@@ -1,7 +1,7 @@
 <h1 align="center">Hiya!</h1>
 <p align="left"> <a href="https://twitter.com/fullstackgary" target="blank"><img src="https://img.shields.io/twitter/follow/fullstackgary?logo=twitter&style=for-the-badge" alt="fullstackgary" /></a> </p>
 
-- <b>I'm in a bootcamp currently. </b> -  <a href="https://sdgku.edu/programs-list/full-stack-development-immersive/" target="_blank" rel="noreferrer"> <img src="https://sdgku.edu/wp-content/uploads/2014/10/sdgku-logo-small.png" alt="css3" width="40" height="40"/> </a>
+- <b>I'm in a bootcamp currently. </b> -  <a href="https://sdgku.edu/programs-list/full-stack-development-immersive/" target="_blank" rel="noreferrer"> <img src="https://sdgku.edu/wp-content/uploads/2014/10/sdgku-logo-small.png" alt="SDGKU" width"90" height="90"/> </a>
 
 
 
