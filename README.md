@@ -1,10 +1,5 @@
 <h1 align="center">Hiya!</h1>
 
-
-- <b>I'm in a bootcamp currently. </b> -  <a href="https://sdgku.edu/programs-list/full-stack-development-immersive/" target="_blank" rel="noreferrer"> <img src="https://sdgku.edu/wp-content/uploads/2014/10/sdgku-logo-small.png" alt="SDGKU" width="200" height="100"/> </a>
-
-
-
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
